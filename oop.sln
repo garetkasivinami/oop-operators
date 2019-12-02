@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMWorks", "ISMWorks\ISMWorks.csproj", "{00CA625C-37C0-4D9B-945F-225697963686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work", "Work\Work.csproj", "{166E0389-CDA8-49B8-A0FC-4BAA8F943862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CA625C-37C0-4D9B-945F-225697963686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CA625C-37C0-4D9B-945F-225697963686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CA625C-37C0-4D9B-945F-225697963686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CA625C-37C0-4D9B-945F-225697963686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166E0389-CDA8-49B8-A0FC-4BAA8F943862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166E0389-CDA8-49B8-A0FC-4BAA8F943862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166E0389-CDA8-49B8-A0FC-4BAA8F943862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166E0389-CDA8-49B8-A0FC-4BAA8F943862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FCB7BA4-85F3-430B-A683-AEC10C50615D}
+	EndGlobalSection
+EndGlobal
